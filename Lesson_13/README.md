@@ -1,7 +1,5 @@
 # Lesson 13 – Remote Sensing with Python
 
-# Lesson 13 – Remote Sensing with Python
-
 ## Learning Outcomes
 
 After completing this lesson, students will be able to:
@@ -52,7 +50,7 @@ Example outputs:
 - Clipping polygon
 - Vector visualization
 
-  ![ ](Lesson_13/output_data/Ex1_plot.png)
+  ![vector](Lesson_13/output_data/Ex1_plot.png)
 ---
 
 ### Exercise 2
