@@ -50,7 +50,7 @@ Example outputs:
 - Clipping polygon
 - Vector visualization
 
-  ![vector](output_data/Ex1_plot.png)
+  ![vector](output_data/Ex1_OpenStreetMap.png)
 ---
 
 ### Exercise 2
